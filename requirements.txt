@@ -1,0 +1,16 @@
+langchain
+ipykernel
+pandas
+numpy
+openai
+python-dotenv
+pymupdf
+arxiv
+wikipedia
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+faiss-cpu
+langchain-groq
+streamlit
