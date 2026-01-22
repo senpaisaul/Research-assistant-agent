@@ -4,9 +4,6 @@ This project is an interactive AI-powered research assistant that can search the
 
 The assistant is designed to act like a smart research companion that reasons, searches, and explains results in natural language while showing its internal thought process using Streamlit callbacks.
 
-Reference Project:  
-https://github.com/senpaisaul/Research-assistant-agent
-
 ---
 
 ## 🚀 Project Overview
