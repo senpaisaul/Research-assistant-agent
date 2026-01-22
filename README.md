@@ -35,8 +35,11 @@ The Groq-hosted LLaMA 3 model processes the query, reasons about it, calls the a
 ## 📂 Project Structure
 
 ├── app.py # Main Streamlit application
+
 ├── .env # Environment variables (Groq API key)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
